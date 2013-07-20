@@ -107,7 +107,7 @@ function service_status($url) {
 
     return false;
 }
-
+ 
 $title = "Boot em' up!";
 $default_mac = "00:01:2e:27:62:87";
 $default_mac_list = array('mediacenter' => '00:01:2e:27:62:87','host2' => '00:01:2e:27:62:87');
